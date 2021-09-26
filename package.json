@@ -1,0 +1,23 @@
+{
+  "name": "hohou",
+  "version": "1.0.0",
+  "description": "Dmitriy Korbut - frontend developer",
+  "scripts": {
+    "editorconfig": "editorconfig-cli",
+    "stylelint": "stylelint .",
+    "test": "npm run editorconfig"
+  },
+  "keywords": [
+    "frontend",
+    "devepoper",
+    "cv"
+  ],
+  "author": "korbutds",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@htmlacademy/editorconfig-cli": "^1.0.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-htmlacademy": "^0.1.10"
+  }
+}
